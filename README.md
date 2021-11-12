@@ -7,12 +7,10 @@ O programa analisa uma base de dados referente a vendas de diversos shoppings, b
 # Requisitos / Requirements
 - Python 3
 - pip3
-- Conta do Gmail habilitada para receber conexões de programas externos / Gmail account enabled to receive connections from external programs.
-No site a seguir, realize os passos da sessão "Tutorial - Integração com o Gmail" para habilitar sua conta caso ainda não tenha feito isso:
-https://techexpert.tips/pt-br/python-pt-br/python-enviar-e-mail-usando-o-gmail/
+- Conta do Gmail habilitada para receber conexões de programas externos. No site a seguir, realize os passos da sessão "Tutorial - Integração com o Gmail" para habilitar sua conta caso ainda não tenha feito isso: https://techexpert.tips/pt-br/python-pt-br/python-enviar-e-mail-usando-o-gmail/
 
 # Preparando o ambiente / Preparing the environment
-- Utilizando o instalador pip3 / Using the installer pip3:
+- Utilizando o instalador pip3:
   - pip3 install pandas
   - pip3 install openpyxl
 
