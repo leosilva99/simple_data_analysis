@@ -22,6 +22,5 @@ def send_mail(username, password, mail_from, mail_to, mail_subject, mail_body):
         connection.quit()
     
     except:
-        print('''Nome de usuário, senha ou endereço do destinatário incorreto(s).
-Corrija o arquivo criado e execute novamente!''')
+        print('''Nome de usuário, senha ou endereço do destinatário incorreto(s).\nCorrija o arquivo criado e execute novamente!''')
         exit(0)
